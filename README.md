@@ -25,7 +25,7 @@ class Me:
 	self.role2 = "Data Scientist"	
 	self.bsc_studies = (" Informatics and Communications Engineer", "Computer Engineer")
 	self.msc_studies = ("Data Science")
-	self.msc_certifications = ("Azure Fundamentals", "Azure Data Fundamentals", "Azure AI Fundamentals", "Scrum Master", "Product Owner")
+	self.certifications = ("Azure Fundamentals", "Azure Data Fundamentals", "Azure AI Fundamentals", "Scrum Master", "Product Owner")
         self.language_spoken = ["el_GR", "en_US", "de_DE", "ko_KR"]
 	self.country = "Greece"
 	self.city = "Thessaloniki"
