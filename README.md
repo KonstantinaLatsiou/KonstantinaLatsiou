@@ -19,7 +19,7 @@ class Me:
     A class to represent me.
     """
     def __init__(self):
-        self.name = "Konstantina Lts"
+        self.name = "Konstantina Latsiou"
         self.pronouns = "she/her"
         self.role1 = " Manager, Cloud Engineering"
 	self.role2 = "Data Scientist"	
