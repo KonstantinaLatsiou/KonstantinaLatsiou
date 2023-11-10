@@ -2,7 +2,7 @@
 - 👩‍💻 Manager, Cloud Engineering
 - 📊 Data Scientist
 - 🧠 Machine Learning / Deep Learning Engineer
-- ⚙Scrum Master
+- ⚙Scrum Master / Product Owner
 
 
 
